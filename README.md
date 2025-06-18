@@ -4,8 +4,6 @@
 
 
 
-
-
 # Angular & Typescript
 > GitHub Clone
 > git clone https://github.com/erenmulkoglu96/angular-app
@@ -28,6 +26,7 @@ https://nodejs.org/en/download/package-manager
 
 ---
 ##  Version
+
 node -v
 
 npm -v 
@@ -47,21 +46,31 @@ ng --help
 
 ##  Npm Komutları
 npm init
+
 npm init -y
+
 npm list 
+
 npm list -g 
+
 npm list -g  --depth=0
 
 npm root 
+
 npm root -g
 
 npm config list -l
 
 npm install 
+
 npm i
+
 npm install --save bootstrap
+
 npm uninstall --save bootstrap
+
 npm update bootstrap
+
 
 ##  Npm Clean
 npm uninstall -g @angular/cli
