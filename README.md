@@ -30,14 +30,14 @@ https://nodejs.org/en/download/package-manager
 
 <table>
  
-<td>node -v</td> 
-<td>npm -v </td>
-<td>java --version</td>
-<td>git --version</td>
-<td>git -v</td>
-<td>ng v</td>
-<td>ng version</td>
-<td>ng --help</td>
+<tr><td>node -v</td> </tr>
+<tr><td>npm -v </td></tr>
+<tr><td>java --version</td></tr>
+<tr><td>git --version</td></tr>
+<tr><td>git -v</td></tr>
+<tr><td>ng v</td></tr>
+<tr><td>ng version</td></tr>
+<tr><td>ng --help</td></tr>
 </table>
 
 ##  Npm Komutları
