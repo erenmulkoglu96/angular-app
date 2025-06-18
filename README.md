@@ -30,7 +30,7 @@ https://nodejs.org/en/download/package-manager
 
 <table>
  
-<tr><node -v </tr>
+<tr><td><node -v </td></tr>
 <tr><td>npm -v </td></tr>
 <tr><td>java --version</td></tr>
 <tr><td>git --version</td></tr>
