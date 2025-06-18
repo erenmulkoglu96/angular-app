@@ -25,12 +25,16 @@ git config --global user.email "erenmulkoglu@gmail.com"
 https://nodejs.org/en/download/package-manager
 
 ---
+
 ##  Version
 
-node -v
-
-npm -v 
-
+<table>
+  <tr>
+<td>node -v</td>
+</tr>
+  <tr>
+<td>npm -v </td>
+</tr>
 java --version
 
 git --version
@@ -43,6 +47,7 @@ ng version
 
 ng --help
 
+</table>
 
 ##  Npm Komutları
 <table>
