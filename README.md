@@ -45,7 +45,6 @@ ng version
 ng --help
 
 
---
 ##  Npm Komutları
 npm init
 npm init -y
