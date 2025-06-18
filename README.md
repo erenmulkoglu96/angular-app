@@ -17,6 +17,7 @@
 
 ## Git Kurulumu
 https://www.git-scm.com/download/win
+
 git config --global user.name "Eren Mülkoğlu"
 git config --global user.email "erenmulkoglu@gmail.com"
 
