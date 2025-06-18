@@ -45,31 +45,34 @@ ng --help
 
 
 ##  Npm Komutları
-npm init
+<table>
+  <tr>
+    <td><code>npm init</code></td>
+    <td><code>npm init -y</code></td>
+    <td><code>npm list</code></td>
+  </tr>
+  <tr>
+    <td><code>npm list -g</code></td>
+    <td><code>npm list -g --depth=0</code></td>
+    <td><code>npm root</code></td>
+  </tr>
+  <tr>
+    <td><code>npm root -g</code></td>
+    <td><code>npm config list -l</code></td>
+    <td><code>npm install</code></td>
+  </tr>
+  <tr>
+    <td><code>npm i</code></td>
+    <td><code>npm install --save bootstrap</code></td>
+    <td><code>npm uninstall --save bootstrap</code></td>
+  </tr>
+  <tr>
+    <td><code>npm update bootstrap</code></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-npm init -y
-
-npm list 
-
-npm list -g 
-
-npm list -g  --depth=0
-
-npm root 
-
-npm root -g
-
-npm config list -l
-
-npm install 
-
-npm i
-
-npm install --save bootstrap
-
-npm uninstall --save bootstrap
-
-npm update bootstrap
 
 
 ##  Npm Clean
