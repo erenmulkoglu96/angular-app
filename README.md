@@ -29,12 +29,12 @@ https://nodejs.org/en/download/package-manager
 ##  Version
 
 <table>
-  <tr>
+ 
 <td>node -v</td>
-</tr>
-  <tr>
+
+ 
 <td>npm -v </td>
-</tr>
+
 java --version
 
 git --version
